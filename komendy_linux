@@ -1,0 +1,16 @@
+sudo aplikacja                  # wykonanie aplikacja z podniesionymi uprawnień do administratora
+find                            # wyszukiwanie pliku na serwerze
+grep                            # wyszukiwanie po wzorcu
+ifconfig                        # wyświetlenie ustawień kart graficznych
+top                             # wyświetla procesy i stan systemu
+cat                             # wyświetlanie pliku
+head                            # wyświetlanie początku pliku
+tail                            # wyświetlanie końcówki pliku
+tar                             # pakowanie/rozpakowywanie plików
+rm                              # usuwanie plików / katalogów
+ps                              # wyświetlanie procesów
+df                              # wyświetlanie zajętości dysku
+ls                              # listowanie plików w katalogu
+chmod                           # zmiana uprawnień pliku
+chown                           # zmiana właściciela pliku
+dmesg                           # wyświetlenie wiadomości z bootowania
